@@ -1,0 +1,15 @@
+{
+  "name": "CoopRTC",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "helmet": "^5.0.2",
+    "socket.io": "^4.4.1"
+  }
+}
